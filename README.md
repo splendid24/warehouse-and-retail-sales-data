@@ -124,3 +124,4 @@ Project Work – Sales Data Analysis
 ## 📝 License
 
 This project is for academic and educational purposes.
+I'm open to collaborate on data analysis , and visualization related projects. you can reach me via email (divineejoke@gmail.com)
