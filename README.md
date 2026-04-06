@@ -1,5 +1,4 @@
-# warehouse-and-retail-sales-data
-08_22_Gist_INSET_Credit_Pickthorn_Photography_1920x1280
+# warehouse-and-retail-sales-dataset
 ## This dataset comprises detailed monthly records of retail and warehouse movement for individual items across departments and suppliers. The data includes:
 
 Timeframe: Monthly entries from 2017 to 2020
