@@ -1,5 +1,5 @@
 # warehouse-and-retail-sales-data
-https://raw.githubusercontent.com/splendid24/warehouse-and-retail-sales-data/917c64fbcbece20911fb4119405e6bbdf40b4cf0/08_22_Gist_INSET_Credit_Pickthorn_Photography_1920x1280.webp
+
 ## This dataset comprises detailed monthly records of retail and warehouse movement for individual items across departments and suppliers. The data includes:
 
 Timeframe: Monthly entries from 2017 to 2020
