@@ -1,5 +1,6 @@
 # warehouse-and-retail-sales-dataset
 
+[wineshop - Search Images.html](https://github.com/user-attachments/files/26512884/wineshop.-.Search.Images.html)
 ## This dataset comprises detailed monthly records of retail and warehouse movement for individual items across departments and suppliers. The data includes:
 
 Timeframe: Monthly entries from 2017 to 2020
