@@ -1,5 +1,6 @@
 # warehouse-and-retail-sales-dataset
 <img width="257" height="146" alt="Image" src="https://github.com/user-attachments/assets/56cdd051-90e3-43c5-8b6e-f375bdb196e5" />
+
 ## This dataset comprises detailed monthly records of retail and warehouse movement individual items across departments and suppliers. The data includes:
 
 Timeframe: Monthly entries from 2017 to 2020
